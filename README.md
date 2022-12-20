@@ -9,7 +9,7 @@
 
 ```apt install python2```
 
-```git clone https://github.com/KasRoudra/banner-generator```
+```https://github.com/HRCXXII/BannerGenerator.git``
 
 ```cd banner-generator```
 
@@ -22,7 +22,7 @@
 
 ### Or, Use Single Command
 ```
-apt install python2 && git clone https://github.com/KasRoudra/banner-generator && cd banner-generator && bash requirements.sh && python2 generator.py
+apt install python2 && https://github.com/HRCXXII/BannerGenerator.git && cd banner-generator && bash requirements.sh && python2 generator.py
 ```
 
 ### Features:
